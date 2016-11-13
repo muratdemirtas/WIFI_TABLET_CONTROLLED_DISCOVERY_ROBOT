@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\bin\Debug\Sensorler.exe.config
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\bin\Debug\Sensorler.exe
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\bin\Debug\Sensorler.pdb
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\MainWindow.baml
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\MainWindow.g.cs
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\App.g.cs
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler_MarkupCompile.cache
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler.g.resources
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler.exe
+C:\Users\Murat\Desktop\Robot\Sensorler\Sensorler\obj\Debug\Sensorler.pdb

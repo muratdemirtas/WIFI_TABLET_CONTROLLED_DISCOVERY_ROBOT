@@ -1,0 +1,9 @@
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\obj\Debug\MotorKontrolForm.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\obj\Debug\MotorKontrolForm.Form1.resources
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\obj\Debug\MotorKontrolForm.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\obj\Debug\MotorKontrolForm.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\bin\Debug\TankMotor.exe.config
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\bin\Debug\TankMotor.exe
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\bin\Debug\TankMotor.pdb
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\obj\Debug\TankMotor.exe
+C:\Users\Murat\Desktop\Robot\MotorKontrolForm\MotorKontrolForm\obj\Debug\TankMotor.pdb

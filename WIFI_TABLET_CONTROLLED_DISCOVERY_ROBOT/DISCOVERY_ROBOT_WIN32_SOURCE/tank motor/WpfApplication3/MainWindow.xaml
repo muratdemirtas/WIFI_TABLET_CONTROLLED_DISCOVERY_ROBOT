@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+          
+       
+          WindowStartupLocation="Manual" 
+    Left="0" Top="550"
+         AllowsTransparency="True"
+        Topmost="True"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="234.744" Width="299.119">
+    <Grid RenderTransformOrigin="0.711,0.685" Opacity="0.99" Margin="0,0,-9,-14">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="259*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Button" Content="Button"  Background="Transparent" HorizontalAlignment="Left" Margin="43,7,0,0" VerticalAlignment="Top" Width="75"  Height="70"  Grid.Column="1" TouchDown="Button_TouchDown" TouchUp="Button_TouchUp" Opacity="0.8" />
+        <Button x:Name="Button2" Content="Button" Background="Transparent" HorizontalAlignment="Left" Margin="43,157,0,0" VerticalAlignment="Top" Width="75" Height="70" Grid.Column="1" TouchDown="Button2_TouchDown" TouchUp="Button2_TouchUp" Opacity="0.8"/>
+        <Button x:Name="Button3" Content="Button"  Background="Transparent" HorizontalAlignment="Left" Margin="22,82,0,0" VerticalAlignment="Top" Width="75"  Height="70" Grid.ColumnSpan="2" TouchDown="Button3_TouchDown" TouchUp="Button3_TouchUp" Opacity="0.8"/>
+        <Button x:Name="Button4" Content="Button" Background="Transparent" HorizontalAlignment="Left" Margin="123,82,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-1.652,-0.669" Height="70" Grid.Column="1" TouchDown="Button4_TouchDown" Opacity="0.8" TouchUp="Button4_TouchUp"/>
+        <Button x:Name="Button5" Content="Button" Background="Transparent" HorizontalAlignment="Right" Margin="0,82,131,0" VerticalAlignment="Top" Width="75" Height="70" Grid.Column="1" TouchDown="Button5_TouchDown" Opacity="0.8"/>
+
+    </Grid>
+</Window>

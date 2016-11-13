@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\bin\Debug\DonanımKontrol.exe.config
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\bin\Debug\DonanımKontrol.exe
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\bin\Debug\DonanımKontrol.pdb
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\MainWindow.baml
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\MainWindow.g.cs
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\App.g.cs
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol_MarkupCompile.cache
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol.g.resources
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol.exe
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Debug\DonanımKontrol.pdb

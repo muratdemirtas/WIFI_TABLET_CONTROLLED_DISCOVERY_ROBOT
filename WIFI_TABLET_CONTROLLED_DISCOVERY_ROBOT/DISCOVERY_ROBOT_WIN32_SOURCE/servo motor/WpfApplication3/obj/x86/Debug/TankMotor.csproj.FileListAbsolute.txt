@@ -1,0 +1,6 @@
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.exe.config
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+D:\Yeni klasör (3)\arge\tank motor\WpfApplication3\bin\x86\Debug\WpfApplication3.exe.config
+D:\Yeni klasör (3)\arge\tank motor\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+D:\Yeni klasör (3)\arge\tank motor\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb

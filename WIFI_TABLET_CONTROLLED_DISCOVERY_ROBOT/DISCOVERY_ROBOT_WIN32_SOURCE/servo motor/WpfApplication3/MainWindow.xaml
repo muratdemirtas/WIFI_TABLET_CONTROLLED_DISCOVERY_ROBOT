@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+          
+       
+          WindowStartupLocation="Manual" 
+    Left="1000" Top="550"
+         AllowsTransparency="True"
+        Topmost="True"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="234.744" Width="299.119">
+    <Grid RenderTransformOrigin="0.711,0.685" Opacity="0.99" Margin="0,0,0,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="259*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Button" Content="Button"  Background="Transparent" HorizontalAlignment="Left" Margin="26,155,0,0" VerticalAlignment="Top" Width="75"  Height="70"  Grid.Column="1"  Opacity="0.8" MouseDown="Button_MouseDown" MouseUp="Button_MouseUp" Click="Button_Click" />
+        <Button x:Name="Button2" Content="Button2" Background="Transparent" HorizontalAlignment="Left" Margin="26,5,0,0" VerticalAlignment="Top" Width="75" Height="70" Grid.Column="1" TouchDown="Button2_TouchDown"  Opacity="0.8" MouseDown="Button2_MouseDown" MouseUp="Button2_MouseUp" Click="Button2_Click"/>
+        <Button x:Name="Button3" Content="Button3"  Background="Transparent" HorizontalAlignment="Left" Margin="106,80,0,0" VerticalAlignment="Top" Width="75"  Height="70" TouchDown="Button3_TouchDown"  Opacity="0.8" Click="Button3_Click" Grid.Column="1"/>
+        <Button x:Name="Button4" Content="Button4" Background="Transparent" HorizontalAlignment="Right" Margin="0,80,221,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-1.652,-0.669" Height="70" TouchDown="Button4_TouchDown" Opacity="0.8" Click="Button4_Click" Grid.ColumnSpan="2" />
+        <Button x:Name="Button5" Content="Button5" Background="Transparent" HorizontalAlignment="Left" Margin="26,80,0,0" VerticalAlignment="Top" Width="75" Height="70" Grid.Column="1" TouchDown="Button5_TouchDown" Opacity="0.8" Click="Button5_Click" />
+
+    </Grid>
+</Window>

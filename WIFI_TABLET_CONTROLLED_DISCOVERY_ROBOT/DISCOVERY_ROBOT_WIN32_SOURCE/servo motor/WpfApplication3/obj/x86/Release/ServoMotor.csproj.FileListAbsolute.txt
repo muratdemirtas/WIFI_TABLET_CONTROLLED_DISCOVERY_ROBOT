@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\MainWindow.baml
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\MainWindow.g.cs
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\App.g.cs
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\WpfApplication3.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\ServoMotor.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\ServoMotor.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\bin\x86\Release\ServoMotor.exe.config
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\bin\x86\Release\ServoMotor.exe
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\bin\x86\Release\ServoMotor.pdb
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\ServoMotor_MarkupCompile.cache
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\ServoMotor.g.resources
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\ServoMotor.exe
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Release\ServoMotor.pdb

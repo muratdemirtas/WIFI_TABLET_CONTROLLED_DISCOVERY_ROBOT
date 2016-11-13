@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\TankMotor.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\MainWindow.baml
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\MainWindow.g.cs
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\App.g.cs
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\WpfApplication3.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\TankMotor.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\bin\x86\Release\TankMotor.exe.config
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\bin\x86\Release\TankMotor.exe
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\bin\x86\Release\TankMotor.pdb
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\TankMotor_MarkupCompile.cache
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\TankMotor.g.resources
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\TankMotor.exe
+C:\Users\Murat\Desktop\Robot\tank motor\WpfApplication3\obj\x86\Release\TankMotor.pdb

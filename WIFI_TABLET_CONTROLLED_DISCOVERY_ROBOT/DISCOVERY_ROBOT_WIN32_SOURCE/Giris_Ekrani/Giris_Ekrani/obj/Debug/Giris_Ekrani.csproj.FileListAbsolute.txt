@@ -1,0 +1,9 @@
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\bin\Debug\Giris_Ekrani.exe.config
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\bin\Debug\Giris_Ekrani.exe
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\bin\Debug\Giris_Ekrani.pdb
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\obj\Debug\Giris_Ekrani.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\obj\Debug\Giris_Ekrani.Form1.resources
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\obj\Debug\Giris_Ekrani.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\obj\Debug\Giris_Ekrani.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\obj\Debug\Giris_Ekrani.exe
+C:\Users\Murat\Desktop\Robot\Giris_Ekrani\Giris_Ekrani\obj\Debug\Giris_Ekrani.pdb

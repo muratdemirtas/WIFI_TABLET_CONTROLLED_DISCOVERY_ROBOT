@@ -1,0 +1,20 @@
+﻿<Window x:Class="DonanımKontrol.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="191.03" Width="121.564" 
+             Left="1170" Top="300"
+         AllowsTransparency="True"
+        Topmost="True"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        >
+    <Grid Margin="0,0,10,10">
+        <Button Content="Fari Yak" Background="Transparent"  HorizontalAlignment="Left" Margin="23,39,0,0" VerticalAlignment="Top" Width="84" RenderTransformOrigin="0.042,-0.192" Height="32" FontSize="15" FontWeight="Bold" Foreground="#FFDCFF00"/>
+        <Button Content="Buzzer" Background="Transparent" HorizontalAlignment="Left" Margin="23,113,0,0" VerticalAlignment="Top" Width="84" RenderTransformOrigin="0.042,-0.192" Height="32" FontSize="15" FontWeight="Bold" Foreground="#FFDCFF03"/>
+        <Button Content="Flaşör" Background="Transparent" HorizontalAlignment="Left" Margin="23,150,0,0" VerticalAlignment="Top" Width="84" RenderTransformOrigin="0.042,-0.192" Height="27" FontSize="15" FontWeight="Bold" Foreground="#FFDCFF00"/>
+        <Button Content="180D Spin" Background="Transparent" HorizontalAlignment="Left" Margin="23,76,0,0" VerticalAlignment="Top" Width="84" RenderTransformOrigin="0.042,-0.192" Height="32" FontSize="15" FontWeight="Bold" Foreground="#FFD1FF00"/>
+        <Label Content="KONTROL" Background="Transparent" HorizontalAlignment="Left" Margin="23,10,-18,0" VerticalAlignment="Top" Height="39" Width="107" FontSize="15" FontWeight="Bold" Foreground="#FFF30000"/>
+
+    </Grid>
+</Window>

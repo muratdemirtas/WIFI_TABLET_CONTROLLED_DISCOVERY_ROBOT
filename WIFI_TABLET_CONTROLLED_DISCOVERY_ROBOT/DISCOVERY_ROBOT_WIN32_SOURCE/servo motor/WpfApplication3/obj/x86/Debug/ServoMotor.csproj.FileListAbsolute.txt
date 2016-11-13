@@ -1,0 +1,16 @@
+D:\Yeni klasör (3)\arge\tank motor\WpfApplication3\bin\x86\Debug\WpfApplication3.exe.config
+D:\Yeni klasör (3)\arge\tank motor\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+D:\Yeni klasör (3)\arge\tank motor\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\bin\x86\Debug\WpfApplication3.exe.config
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\ServoMotor.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\obj\x86\Debug\ServoMotor.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\bin\x86\Debug\WpfApplication3.exe
+C:\Users\Murat\Desktop\Robot\servo motor\WpfApplication3\bin\x86\Debug\WpfApplication3.pdb

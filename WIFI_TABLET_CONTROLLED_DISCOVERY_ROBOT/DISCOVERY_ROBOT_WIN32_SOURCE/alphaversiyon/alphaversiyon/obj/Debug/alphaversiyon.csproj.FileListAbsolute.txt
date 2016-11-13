@@ -1,0 +1,5 @@
+C:\Users\Murat\Desktop\Robot\alphaversiyon\alphaversiyon\bin\Debug\alphaversiyon.exe.config
+C:\Users\Murat\Desktop\Robot\alphaversiyon\alphaversiyon\obj\Debug\alphaversiyon.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\alphaversiyon\alphaversiyon\obj\Debug\alphaversiyon.Form1.resources
+C:\Users\Murat\Desktop\Robot\alphaversiyon\alphaversiyon\obj\Debug\alphaversiyon.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\alphaversiyon\alphaversiyon\obj\Debug\alphaversiyon.csproj.GenerateResource.Cache

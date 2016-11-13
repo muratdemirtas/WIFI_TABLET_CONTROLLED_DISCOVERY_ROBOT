@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\AForge.dll
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\bin\Release\AForge.xml
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\obj\Release\EkranKayit.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\ekran kayit\ScreenRecord\obj\Release\EkranKayit.csproj.GenerateResource.Cache

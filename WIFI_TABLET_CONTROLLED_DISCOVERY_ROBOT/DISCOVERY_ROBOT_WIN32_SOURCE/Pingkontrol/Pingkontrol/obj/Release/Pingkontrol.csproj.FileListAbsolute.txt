@@ -1,0 +1,9 @@
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\bin\Release\Pingkontrol.exe.config
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\bin\Release\Pingkontrol.exe
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\bin\Release\Pingkontrol.pdb
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\obj\Release\Pingkontrol.Form1.resources
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\obj\Release\Pingkontrol.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\obj\Release\Pingkontrol.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\obj\Release\Pingkontrol.exe
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\obj\Release\Pingkontrol.pdb
+C:\Users\Murat\Desktop\Robot\Pingkontrol\Pingkontrol\obj\Release\Pingkontrol.csprojResolveAssemblyReference.cache

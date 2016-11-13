@@ -1,0 +1,26 @@
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.exe.config
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.exe
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.pdb
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.baml
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\App.g.cs
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.exe.config
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.exe
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.pdb
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.exe
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\bin\x86\Debug\WpfApplication3.pdb
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.csprojResolveAssemblyReference.cache
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.baml
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\MainWindow.g.cs
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\App.g.cs
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3_MarkupCompile.cache
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.g.resources
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.Properties.Resources.resources
+D:\Yeni klasör (3)\arge\WpfApplication3\WpfApplication3\obj\x86\Debug\WpfApplication3.csproj.GenerateResource.Cache

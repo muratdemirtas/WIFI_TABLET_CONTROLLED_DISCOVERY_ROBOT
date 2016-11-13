@@ -1,0 +1,12 @@
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\bin\Release\DonanımKontrol.exe.config
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\bin\Release\DonanımKontrol.exe
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\bin\Release\DonanımKontrol.pdb
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\MainWindow.baml
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\MainWindow.g.cs
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\App.g.cs
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\DonanımKontrol_MarkupCompile.cache
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\DonanımKontrol.g.resources
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\DonanımKontrol.Properties.Resources.resources
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\DonanımKontrol.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\DonanımKontrol.exe
+C:\Users\Murat\Desktop\Robot\DonanımKontrol\DonanımKontrol\obj\Release\DonanımKontrol.pdb

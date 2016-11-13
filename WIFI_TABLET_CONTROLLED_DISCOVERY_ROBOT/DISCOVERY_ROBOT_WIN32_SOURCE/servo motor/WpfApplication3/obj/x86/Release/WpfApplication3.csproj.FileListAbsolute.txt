@@ -1,0 +1,13 @@
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\bin\x86\Release\WpfApplication3.exe.config
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\bin\x86\Release\WpfApplication3.exe
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\bin\x86\Release\WpfApplication3.pdb
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\MainWindow.baml
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\MainWindow.g.cs
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\App.g.cs
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3_MarkupCompile.cache
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3.g.resources
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3.Properties.Resources.resources
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3.exe
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3.pdb
+C:\Users\Murat\Desktop\arge\WpfApplication3\WpfApplication3\obj\x86\Release\WpfApplication3.csprojResolveAssemblyReference.cache
